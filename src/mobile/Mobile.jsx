@@ -17,8 +17,8 @@ const Mobile = () => {
             <div className='d-flex flex-column align-items-center justify-content-center' width="80%">
                 <p align="center">Yth. Bapak/Ibu Saudara Saudari . Melalui Surat Ini Saya Atas Nama BAIQ DEVI ANDIKASARI</p>
             <div className="d-flex justify-content-center">
-            <a href='https://www.instagram.com/kumpulan_aksaradev/' target="_blank" className='btn btn-secondary m-1'><i className='fab fa-instagram'></i></a>
-            <a href='https://www.facebook.com/baiq.devi.31' target="_blank" className='btn btn-secondary m-1'><i className='fab fa-facebook-f'></i></a>
+            <a href='https://www.instagram.com/kumpulan_aksaradev/' rel='noreferrer' target="_blank" className='btn btn-secondary m-1'><i className='fab fa-instagram'></i></a>
+            <a href='https://www.facebook.com/baiq.devi.31' target="_blank" rel='noreferrer' className='btn btn-secondary m-1'><i className='fab fa-facebook-f'></i></a>
             </div>
             <p className="text-center p-2">Mengundang Bapak/Ibu Saudara/I Untuk Hadir Dalam Acara 100 hari Alm.Bapak Saya Lalu Manan ,Untuk Turut Ikut Mendoakan Semoga Di Tempat kan Di Sisi yang Terbaik Bersama Orang Orang Beriman Oleh Allah S.W.T. </p>
             </div>
