@@ -20,7 +20,7 @@ const Mobile = () => {
             <a href='https://www.instagram.com/kumpulan_aksaradev/' target="_blank" className='btn btn-secondary m-1'><i className='fab fa-instagram'></i></a>
             <a href='https://www.facebook.com/baiq.devi.31' target="_blank" className='btn btn-secondary m-1'><i className='fab fa-facebook-f'></i></a>
             </div>
-            <p className="text-center p-2">Mengundang Bapak/Ibu Saudara/RI Untuk Hadir Dalam Acara 100 hari Alm.Bapak Saya Lalu Manan ,Untuk Turut Ikut Mendoakan Semoga Di Tempat kan Di Sisi yang Terbaik Bersama Orang Orang Beriman Oleh Alloh Swt. </p>
+            <p className="text-center p-2">Mengundang Bapak/Ibu Saudara/I Untuk Hadir Dalam Acara 100 hari Alm.Bapak Saya Lalu Manan ,Untuk Turut Ikut Mendoakan Semoga Di Tempat kan Di Sisi yang Terbaik Bersama Orang Orang Beriman Oleh Allah S.W.T. </p>
             </div>
             <h1 className="text-center">Hello World</h1>
             <h1 className="text-center">Hello World</h1>
