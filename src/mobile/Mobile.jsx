@@ -13,7 +13,7 @@ const Mobile = () => {
                     <img src={bismillah} width="80%" alt="Bismillahirohmanirrohim" />
                     <img src={assalamualaikum} width="60%" alt="assalamualaikum" />
                 </div>
-            <img src={bapak} alt="Foto bapak" width="50%" />
+            <img src={bapak} alt="Foto bapak" width="80%" />
             <div className='d-flex flex-column align-items-center justify-content-center' width="80%">
                 <p align="center">Yth. Bapak/Ibu Saudara Saudari . Melalui Surat Ini Saya Atas Nama BAIQ DEVI ANDIKASARI</p>
             <div className="d-flex justify-content-center">
