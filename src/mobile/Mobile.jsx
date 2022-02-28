@@ -47,7 +47,7 @@ const Mobile = () => {
             {data.map((row,i)=>(
                 <Card key={i} icon={row.icon} title={row.title} content={row.content} />
             ))}
-            <a href="https://goo.gl/maps/vYJYmmLapnTbdbc3A" target="_blank" rel='noreferrer' className="btn btn-info"><i className="fa-solid fa-location-dot"></i> Cari Alamat</a>
+            <a href="https://www.google.com/maps?q=-8.6628565,116.3252437&z=17&hl=en" target="_blank" rel='noreferrer' className="btn btn-info"><i className="fa-solid fa-location-dot"></i> Cari Alamat</a>
             </div>
             </div>
             </>
