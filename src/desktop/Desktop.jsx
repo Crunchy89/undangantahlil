@@ -53,7 +53,7 @@ const Desktop = () => {
             {data.map((row,i)=>(
                 <Card key={i} icon={row.icon} title={row.title} content={row.content} />
             ))}
-            <a href="https://www.google.com/maps?q=-8.6628565,116.3252437&z=17&hl=en" target="_blank" rel='noreferrer' className="btn btn-info"><i className="fa-solid fa-location-dot"></i> Cari Alamat</a>
+            <a href={`https://www.google.com/maps/place/8%C2%B039'46.3%22S+116%C2%B019'30.9%22E/@-8.6628565,116.323055,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xddb482d605180398!8m2!3d-8.6628565!4d116.3252437?hl=en`} target="_blank" rel='noreferrer' className="btn btn-info"><i className="fa-solid fa-location-dot"></i> Cari Alamat</a>
             </div>
             </>
     );
